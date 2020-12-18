@@ -5,7 +5,7 @@ li{list-style: none; }
 .hide{display: none; }
 
 .wrap {min-width: 320px; max-width: 560px;/*  border: 1px solid red;*/
-    margin: auto; }
+    margin: auto; height: 812px;}
 .wrap header{background-color: #212121; height: 80px; 
     position: relative;}
 header h1{color: #FFFFFF; font-size: 20px; 
